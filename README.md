@@ -11,5 +11,5 @@ Steps to install:
 
 The following enables a stronger prevention against updates,
 Optional:
-6. Go to General>About>Certificate Trust Settings
-7. Enable the NextDNS Full Trust
+1. Go to General>About>Certificate Trust Settings
+2. Enable the NextDNS Full Trust
