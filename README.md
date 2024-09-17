@@ -10,6 +10,7 @@ Steps to install:
 4. Install the downloaded profile
 
 The following enables a stronger prevention against updates,
+
 Optional:
 1. Go to General>About>Certificate Trust Settings
 2. Enable the NextDNS Full Trust
