@@ -3,14 +3,16 @@ Simple iOS Update Blocker utilising NextDNS to block Apple's update servers. No 
 
 Make an issue if you want viewing access to the DNS, include your email for the invitation link I will send
 
+Not compatible with my iOS sideloading guide
+
 Steps to install:
 1. Download the profile from releases
 2. Go to Settings
-3. Go to General>VPN & Device Management
+3. Go to General > VPN & Device Management
 4. Install the downloaded profile
 
 The following enables a stronger prevention against updates,
 
 Optional:
-1. Go to General>About>Certificate Trust Settings
+1. Go to General > About > Certificate Trust Settings
 2. Enable the NextDNS Full Trust
