@@ -1,5 +1,6 @@
 # iOS-Update-Blocker
 # This won't work anymore! A guide to make your own will come soon!
+# Converted to madNS Config Profile, check my Ultimate Sideloading Guide.
 Simple iOS Update Blocker utilising NextDNS to block Apple's update servers. No time to look at your data, use if you want.
 
 Make an issue if you want viewing access to the DNS, include your email for the invitation link I will send
